@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/compdfkit-comidp-mcp-server-badge.png)](https://mseep.ai/app/compdfkit-comidp-mcp-server)
+
 # Intelligent Document Extraction - ComIDP
 
 ## Supported Feature: Intelligent Document Extraction
