@@ -1,23 +1,42 @@
-# Intelligent Document Extraction - ComIDP
+# ComPDF AI (Formerly ComIDP) for MCP Server
 
-## Supported Feature: Intelligent Document Extraction
-ComIDP **Intelligent Document Extraction** automatically extracts key information from your uploaded unstructured documents, like PDF, converts it into structured data, and supports batch processing to significantly improve document handling efficiency.
- 
-In the future, we will support more document formats (e.g., JPG, PNG etc.) and integrate with other ComIDP tools for advanced processing
+As part of the KDAN ecosystem, ComPDF AI for MCP Server delivers **Intelligent Document Extraction**—automatically extracting key information from unstructured documents (such as PDFs or images), converting it into structured data, and supporting batch processing to significantly boost document handling efficiency.
 
-## What is ComIDP MCP Server
+If you find this library helpful, please consider giving us a ⭐ **Star** on GitHub! Have feedback or questions? Join the conversation in our [Discussions](https://github.com/orgs/ComPDFKit/discussions).
 
-**ComIDP MCP Server** is a lightweight Model Context Protocol (MCP) server designed for seamless integrating [ComIDP](https://www.compdf.com/solutions/intelligent-document-processing?utm_source=Code&utm_campaign=github_mcpserver_20250912&utm_medium=GitHub) with AI chatbots, providing unstructured document processing functionalities, such as extracting data from PDF files. The service returns results in structured plain-text format, enabling downstream processing or archival.
+**Why ComPDF AI for MCP Server?**
+
+* **Batch Processing for Real Efficiency:** Handle large volumes of documents at once. Batch processing significantly speeds up your workflow and reduces operational overhead.
+  
+* **From Unstructured to Actionable:** Transform messy PDFs and scanned images into structured, machine-readable data that can be easily used in databases, analytics, or downstream applications.
+  
+* **Boost Document Handling Productivity:** Eliminate bottlenecks in document processing. Focus on insights and decisions, while ComPDF AI handles the extraction automatically and accurately.
+  
+* **Native MCP Server Architecture:** Designed as an MCP server, it seamlessly integrates with any MCP‑compatible client, enabling standardized, context‑aware document intelligence workflows and effortless scalability.
+  
+
+## Table of Contents
+
+* [Free Trial and License](#free-trial-and-license)
+* [What is ComPDF AI for MCP Server](#what-is-compdf-ai-for-mcp-server)
+* [ComPDF AI MCP Server for Claude Desktop](#compdf-ai-mcp-server-for-claude-desktop)
+* * [Setup](#setup)
+  * [API Reference](#api-reference)
+* [Support](#support)
+* [Changelog](#changelog)
+
+## Free Trial and License
+
+This project is licensed under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0). Please [contact us](https://www.compdf.com/contact-sales?utm_source=github&utm_medium=comidp-mcp-server&utm_campaign=comidp_mcp_server_repo&ref_platform_id=github_compdfkit) for a trial license key.
+
+## What is ComPDF AI for MCP Server
+
+**ComPDF AI for MCP Server** is a lightweight Model Context Protocol (MCP) server designed for seamless integrating [ComPDF AI](https://www.compdf.com/solutions/intelligent-document-processing?utm_source=Code&utm_campaign=github_mcpserver_20250912&utm_medium=GitHub) with AI chatbots, providing unstructured document processing functionalities, such as extracting data from PDF files. The service returns results in structured plain-text format, enabling downstream processing or archival.
 
 <img src="https://github.com/user-attachments/assets/0588f0e8-8692-4480-ad36-720a4de90d01" alt="2.4" width="50%" height="50%"/>
 
 
-## License
-
-This project is licensed under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0). Please [contact us](https://www.compdf.com/contact-sales?utm_source=Code&utm_campaign=github_mcpserver_20250912&utm_medium=GitHub) for a trial license key.
-
-
-## ComIDP MCP Server for Claude Desktop
+## ComPDF AI MCP Server for Claude Desktop
 
 ### Setup
 
@@ -135,4 +154,8 @@ def data_extraction_from_folder(folder: str, save_dir_path: str, recursive: bool
 
 ## Support
 
-If you encounter any issues or need support, please open an issue or [contact our R&D team](https://www.compdf.com/support?utm_source=Code&utm_campaign=github_mcpserver_20250912&utm_medium=GitHub).
+If you encounter any issues or need support, please open an issue or [contact our team](https://www.compdf.com/support?utm_source=github&utm_medium=comidp-mcp-server&utm_campaign=comidp_mcp_server_repo&ref_platform_id=github_compdfkit).
+
+## Changelog
+
+You can click to see the [version changes of ComPDF AI](https://www.compdf.com/comidp/changelog-windows?utm_source=github&utm_medium=comidp-mcp-server&utm_campaign=comidp_mcp_server_repo&ref_platform_id=github_compdfkit).
