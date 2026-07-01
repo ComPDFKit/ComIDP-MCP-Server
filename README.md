@@ -2,7 +2,7 @@
 
 As part of the KDAN ecosystem, ComPDF AI for MCP Server delivers **Intelligent Document Extraction**—automatically extracting key information from unstructured documents (such as PDFs or images), converting it into structured data, and supporting batch processing to significantly boost document handling efficiency.
 
-> If you find this library helpful, please consider giving us a ⭐ **Star** on GitHub! Have feedback or questions? Join the conversation in our [Discussions](https://github.com/orgs/ComPDFKit/discussions).
+> If you find this library helpful, please consider giving us a ⭐ **Star** on GitHub! Have feedback or questions? Join the conversation in our [Discussions](https://github.com/ComPDFKit/ComIDP-MCP-Server/discussions).
 
 **Why ComPDF AI for MCP Server?**
 
